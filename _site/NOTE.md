@@ -14,15 +14,15 @@ NOTE
 
 ##Setting up Jekyll
 
-1. use `jekyll new` to create site folder(that contains many folders and file like `css`, `_sites`, `_posts`)
+1. use `jekyll new` to create site folder
 
 2. `cd` to this folder and then use `git init` to creat Git repo
 
 ##Running Jekyll
 
-1. use `bundle exec jekyll serve` to start the jekyll server
+1. use `bundle exec jekyll serve` to create all the necessary files and folders, which includes `_sites`, `_posts`
 
-2. visit `http://localhost:4000` for review the webpages
+2. visit `http://localhost:4000` for review
 
 
 ##Git
